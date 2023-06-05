@@ -23,5 +23,6 @@
   "devDependencies": {
     "jest": "^26.4.2",
     "qawolf": "1.7.0"
+    
   }
 }
